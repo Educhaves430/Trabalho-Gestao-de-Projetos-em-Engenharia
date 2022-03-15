@@ -1,5 +1,3 @@
-Jogo da Forca desenvolvido em assembly para a disciplina Arquitetura de Computadores (2º ano, 1º semestre)
-
 Departamento de Engenharias Escola de Ciências e Tecnologia Universidade de Trás-os-Montes e Alto Douro
 
 Licenciatura em Engenharia Informática / 3º Ano
